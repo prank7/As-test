@@ -1,0 +1,25 @@
+{
+  "name": "as-js-value-variable-and-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest /exercise-01/block1/index.test.js",
+    "test-1": "jest /exercise-01/block1/index.test.js",
+    "test-2": "jest /exercise-01/block2/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AltCampus/AS-JS-value-variable-and-types.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AltCampus/AS-JS-value-variable-and-types/issues"
+  },
+  "homepage": "https://github.com/AltCampus/AS-JS-value-variable-and-types#readme"
+}

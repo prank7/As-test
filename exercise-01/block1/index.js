@@ -1,0 +1,1 @@
+//  Define 5 values of number and string data types and store them in a variable.
